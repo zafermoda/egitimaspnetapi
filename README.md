@@ -1,2 +1,2 @@
 # egitimaspnetapi
-Video eğitim için
+Asp.Net Core Web API eğitim videolarına ilişkin repomuz
